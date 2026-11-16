@@ -238,7 +238,14 @@ Total crates loaded: 2
 - Performance analytics dashboard
 
 ---
+Dedication
+dedicate this project to our collective hard work, teamwork, and collaboration. Each member contributed their efforts and knowledge to make this project successful.
 
+Group Members:
+- Fatima Shahid
+- Muhammad Abdullah
+
+---
 # Authors
 
 - Asra Siddiqui
